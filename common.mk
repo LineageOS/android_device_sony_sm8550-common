@@ -275,8 +275,10 @@ PRODUCT_PACKAGES += \
     init.qti.kernel.rc \
     init.recovery.qcom.rc \
     init.target.rc \
+    init.sim.restart.sh \
     init.sony-device-common.rc \
     init.sony-platform.rc \
+    init.sony.sim-restart.rc \
     init.sony.rc \
     ueventd.qcom.rc \
     ueventd.sony.rc
