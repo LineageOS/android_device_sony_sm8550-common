@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7d0d4e34_c8d32d08",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 292,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-06-24T10:37:16Z",
+      "side": 1,
+      "message": "CneApp.libvndfwk_detect_jni.qti_vendor_symlink",
+      "range": {
+        "startLine": 292,
+        "startChar": 38,
+        "endLine": 292,
+        "endChar": 77
+      },
+      "revId": "07db950db913bdb534a6edca7c55d01dc4eae06e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
