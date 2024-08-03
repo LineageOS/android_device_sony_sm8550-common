@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ae4543c6_3537634a",
+        "filename": "rootdir/init.recovery.qcom.rc",
+        "patchSetId": 3
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2024-08-03T15:34:06Z",
+      "side": 1,
+      "message": "does this serve any purpose?",
+      "revId": "d8d5a34af4d5464339d72e299948da55a1e62514",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
