@@ -34,6 +34,24 @@
       "parentUuid": "ae4543c6_3537634a",
       "revId": "d8d5a34af4d5464339d72e299948da55a1e62514",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fd71c514_2760d275",
+        "filename": "rootdir/init.recovery.qcom.rc",
+        "patchSetId": 3
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2024-08-04T05:05:40Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c4a0720d_9558d8bc",
+      "revId": "d8d5a34af4d5464339d72e299948da55a1e62514",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
