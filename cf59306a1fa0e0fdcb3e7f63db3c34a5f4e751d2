@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "39eaf168_dff2a8b4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2024-08-04T08:48:24Z",
+      "side": 1,
+      "message": "Thanks!",
+      "parentUuid": "7bab3a87_636a52bf",
+      "revId": "cf59306a1fa0e0fdcb3e7f63db3c34a5f4e751d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f0c2b5e1_1a79b8a5",
@@ -31,6 +49,24 @@
       "writtenOn": "2024-08-04T07:35:19Z",
       "side": 1,
       "message": "do we really want to move this block up?",
+      "revId": "cf59306a1fa0e0fdcb3e7f63db3c34a5f4e751d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "892ea17c_37957e92",
+        "filename": "rootdir/init.recovery.qcom.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2024-08-04T08:48:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f0c2b5e1_1a79b8a5",
       "revId": "cf59306a1fa0e0fdcb3e7f63db3c34a5f4e751d2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
