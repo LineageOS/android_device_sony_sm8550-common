@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "709129ae_59c09be0",
+        "filename": "rootdir/init.recovery.qcom.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 21290
+      },
+      "writtenOn": "2024-08-08T08:56:49Z",
+      "side": 0,
+      "message": "Removing this seems to break USB when you boot to fastbootd directly. (fastboot/adb reboot fastboot). Entering recovery and switching back to fastboot \"fixes\" it.\n\nAdding this line back doesn\u0027t break the battery reporting.",
+      "revId": "09b75d5c487d8b6bb493886c7cc6d0a78c691bb2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
