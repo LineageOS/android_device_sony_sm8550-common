@@ -103,6 +103,10 @@ blob_fixups: blob_fixups_user_type = {
     .replace_needed(
         'android.hardware.light-V1-ndk_platform.so', 'android.hardware.light-V1-ndk.so'
     ),
+    'vendor/lib64/vendor.libdpmframework.so': blob_fixup()
+    .add_needed(
+        'libhidlbase_shim.so',
+    ),
 }
 
 
