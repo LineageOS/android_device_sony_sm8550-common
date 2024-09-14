@@ -16,6 +16,24 @@
       "message": "Is this really working for you? In my case, after removing the init based rules VID/PID are the QC default ones.",
       "revId": "93b00948c9860695a9467095e08ca492fd88c507",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "29e57117_a30595a7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 9
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2024-09-14T16:18:07Z",
+      "side": 1,
+      "message": "This is needed: https://review.lineageos.org/c/LineageOS/android_vendor_qcom_opensource_usb/+/399006",
+      "parentUuid": "f6068110_025b0f1a",
+      "revId": "93b00948c9860695a9467095e08ca492fd88c507",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
