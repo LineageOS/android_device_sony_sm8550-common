@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7403da19_2b963d86",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32245
+      },
+      "writtenOn": "2024-09-18T13:01:48Z",
+      "side": 1,
+      "message": "the commit message was from the first revision and is now invalid, can remove it",
+      "revId": "691caadab00ad0fd21bdeb0928b74f50be54d379",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
