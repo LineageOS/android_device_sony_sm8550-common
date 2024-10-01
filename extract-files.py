@@ -110,6 +110,10 @@ blob_fixups: blob_fixups_user_type = {
     .add_needed(
         'libhidlbase_shim.so',
     ),
+    'vendor/lib64/libqcodec2_core.so': blob_fixup()
+    .add_needed(
+        'libcodec2_shim.so'
+    ),
 }
 
 
