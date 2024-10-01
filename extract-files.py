@@ -101,10 +101,19 @@ blob_fixups: blob_fixups_user_type = {
     'vendor/etc/seccomp_policy/qwesd@2.0.policy': blob_fixup()
     .add_line_if_missing(
         'pipe2: 1'
+    ).add_line_if_missing(
+        'gettid: 1'
     ),
     'system_ext/lib64/libwfdservice.so': blob_fixup()
     .replace_needed(
         'android.media.audio.common.types-V2-cpp.so', 'android.media.audio.common.types-V3-cpp.so'
+    ),
+    (
+        'vendor/etc/seccomp_policy/atfwd@2.0.policy',
+        'vendor/etc/seccomp_policy/wfdhdcphalservice.policy',
+    ): blob_fixup()
+    .add_line_if_missing(
+        'gettid: 1'
     ),
     'vendor/lib64/vendor.libdpmframework.so': blob_fixup()
     .add_needed(
