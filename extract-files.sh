@@ -13,6 +13,8 @@ if [[ ! -d "${MY_DIR}" ]]; then MY_DIR="${PWD}"; fi
 
 ANDROID_ROOT="${MY_DIR}/../../.."
 
+export TARGET_ENABLE_CHECKELF=true
+
 # If XML files don't have comments before the XML header, use this flag
 # Can still be used with broken XML files by using blob_fixup
 export TARGET_DISABLE_XML_FIXING=true
@@ -69,7 +71,7 @@ fi
 
 function blob_fixup() {
     case "${1}" in
-        vendor/bin/hw/android.hardware.security.keymint-service-qti|vendor/bin/hw/vendor.semc.hardware.secd@1.1-service|vendor/bin/keyprovd)
+        vendor/bin/hw/android.hardware.security.keymint-service-qti|vendor/bin/hw/vendor.semc.hardware.secd@1.1-service|vendor/bin/keyprovd|vendor/lib64/librkp.so)
             [ "$2" = "" ] && return 0
             grep -q "android.hardware.security.rkp-V3-ndk.so" "${2}" || ${PATCHELF} --add-needed "android.hardware.security.rkp-V3-ndk.so" "${2}"
             ;;
@@ -84,6 +86,15 @@ function blob_fixup() {
         vendor/etc/seccomp_policy/qwesd@2.0.policy)
             [ "$2" = "" ] && return 0
             echo "pipe2: 1" >> "${2}"
+            ;;
+        vendor/lib64/vendor.semc.hardware.extlight-V1-ndk_platform.so)
+            [ "$2" = "" ] && return 0
+            "${PATCHELF}" --replace-needed "android.hardware.light-V1-ndk_platform.so" "android.hardware.light-V1-ndk.so" "${2}"
+            ;;
+        vendor/lib64/libarcsoft_hdr_adapter.so)
+            [ "$2" = "" ] && return 0
+            "${PATCHELF}" --add-needed "liblog.so" "${2}"
+            "${PATCHELF}" --add-needed "libcutils.so" "${2}"
             ;;
         *)
             return 1
