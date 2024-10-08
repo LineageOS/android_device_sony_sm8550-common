@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc7e8a5e_8318af2f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-10-08T07:54:07Z",
+      "side": 1,
+      "message": "Why don\u0027t you just switch to 64-bit-only builds like we did on oplus 8550?",
+      "range": {
+        "startLine": 9,
+        "startChar": 2,
+        "endLine": 11,
+        "endChar": 66
+      },
+      "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
