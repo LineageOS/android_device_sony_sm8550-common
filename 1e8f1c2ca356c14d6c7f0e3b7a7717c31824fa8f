@@ -46,6 +46,30 @@
       },
       "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d2a83299_5dd9cfc2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-10-08T11:39:14Z",
+      "side": 1,
+      "message": "To be honest, it simplifies a lot if you do it before and not as a follow-up, but it\u0027s up to you.\n\nhttps://github.com/LineageOS/android_device_oneplus_sm8550-common/commit/ad2465ce35e88529c5ff4253eb4064b5a116cfaf\nhttps://github.com/LineageOS/android_device_oneplus_sm8550-common/commit/1552624e172dcc54a37f73fd5c1af72b7d31ddd8\nhttps://github.com/LineageOS/android_device_oneplus_salami/commit/a5479e5b92e888341e7cd5c957204f2889fc62f3",
+      "parentUuid": "e17456b4_851394e5",
+      "range": {
+        "startLine": 9,
+        "startChar": 2,
+        "endLine": 11,
+        "endChar": 66
+      },
+      "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
