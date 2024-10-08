@@ -89,6 +89,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "7099f67a_2578f371",
+        "filename": "extract-files.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2024-10-08T15:46:05Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d0d4d2f4_a580ee97",
+      "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a3662e7d_2118053d",
@@ -102,6 +120,24 @@
       "writtenOn": "2024-10-08T14:44:53Z",
       "side": 1,
       "message": "Duplicate?",
+      "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c9fa6c41_8819201b",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2024-10-08T15:46:05Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a3662e7d_2118053d",
       "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
