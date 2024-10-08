@@ -70,6 +70,23 @@
       },
       "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d0d4d2f4_a580ee97",
+        "filename": "extract-files.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 34167
+      },
+      "writtenOn": "2024-10-08T11:41:16Z",
+      "side": 1,
+      "message": "This blob is decommonized to pdx234\n\nRef:\nhttps://github.com/LineageOS/android_device_sony_pdx234/blob/2cdd0101f53cacb70df107fffaa66711b0a753cf/proprietary-files.txt#L433",
+      "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
