@@ -87,6 +87,23 @@
       "message": "This blob is decommonized to pdx234\n\nRef:\nhttps://github.com/LineageOS/android_device_sony_pdx234/blob/2cdd0101f53cacb70df107fffaa66711b0a753cf/proprietary-files.txt#L433",
       "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a3662e7d_2118053d",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 22465
+      },
+      "writtenOn": "2024-10-08T14:44:53Z",
+      "side": 1,
+      "message": "Duplicate?",
+      "revId": "1e8f1c2ca356c14d6c7f0e3b7a7717c31824fa8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
