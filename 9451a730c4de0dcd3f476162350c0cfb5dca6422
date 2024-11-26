@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "195f06b9_158cd8dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2024-11-26T09:58:04Z",
+      "side": 1,
+      "message": "verified with pdx237 (XQ-DE44).",
+      "revId": "9451a730c4de0dcd3f476162350c0cfb5dca6422",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
