@@ -16,6 +16,23 @@
       "message": "https://github.com/dmXq-development/android_device_samsung_sm8550-common/commit/d4fe6cab858b6f19cd2664a9f3e0fd5e54511f8a",
       "revId": "fa8628be8c422252ca1045b5b76770a8eebf26c4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64f2e253_1e12852d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34211
+      },
+      "writtenOn": "2024-11-27T11:37:49Z",
+      "side": 1,
+      "message": "Someone found it before you.",
+      "revId": "fa8628be8c422252ca1045b5b76770a8eebf26c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
