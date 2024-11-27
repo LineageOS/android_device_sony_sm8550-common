@@ -85,6 +85,42 @@
       "message": "sorry, do you want me",
       "revId": "fa8628be8c422252ca1045b5b76770a8eebf26c4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "af95e7b9_de6d4f4e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-11-27T12:01:41Z",
+      "side": 1,
+      "message": "No, please don\u0027t. This is hardly relevant, as anyone could have done this.",
+      "parentUuid": "04cb5855_b2843457",
+      "revId": "fa8628be8c422252ca1045b5b76770a8eebf26c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f8440f2_a3969b63",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-11-27T12:01:41Z",
+      "side": 1,
+      "message": "Comment removed by: Łukasz Patron; Reason: a",
+      "parentUuid": "64f2e253_1e12852d",
+      "revId": "fa8628be8c422252ca1045b5b76770a8eebf26c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
