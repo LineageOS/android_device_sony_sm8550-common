@@ -155,6 +155,24 @@
       "message": "I assume the authority for this change is incorrect.",
       "revId": "fa8628be8c422252ca1045b5b76770a8eebf26c4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7cc1122e_90c18e4b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-11-27T13:22:44Z",
+      "side": 1,
+      "message": "no, it\u0027s perfectly fine for independent developers to reach the same conclusion.",
+      "parentUuid": "78b67be4_8a911427",
+      "revId": "fa8628be8c422252ca1045b5b76770a8eebf26c4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
