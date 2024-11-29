@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab4f0b65_6b662ef7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2024-11-29T02:41:15Z",
+      "side": 1,
+      "message": "just aligned format to oneplus devices and sony-sm8250/sm8350",
+      "revId": "d14a06e5997fc8f5c2cb6586b213925e5ee0a85a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
