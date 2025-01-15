@@ -16,6 +16,24 @@
       "message": "??",
       "revId": "c3a18b36da0ee71be9f0ce0ede2a2de5e9bd7d0d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "30217fa1_3b1b983a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2025-01-15T03:32:39Z",
+      "side": 1,
+      "message": "as I looked at other sm8550 devices, I found their thermal-engine.conf is empty.\n\nthe original thermal-engine.conf is from /OEM/etc/ and causes the cpu freq to stuck at lowest freq.",
+      "parentUuid": "56a1f752_03e71006",
+      "revId": "c3a18b36da0ee71be9f0ce0ede2a2de5e9bd7d0d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
