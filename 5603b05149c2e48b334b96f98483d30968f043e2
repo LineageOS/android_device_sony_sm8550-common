@@ -16,6 +16,47 @@
       "message": "sig_replace is easier to read fyi.",
       "revId": "5603b05149c2e48b334b96f98483d30968f043e2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0dd57539_a09eb403",
+        "filename": "extract-files.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-01-15T20:08:52Z",
+      "side": 1,
+      "message": "nvm",
+      "parentUuid": "5efe12bb_f6b31e52",
+      "revId": "5603b05149c2e48b334b96f98483d30968f043e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ed6e2213_8554f6a6",
+        "filename": "extract-files.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-01-15T20:08:52Z",
+      "side": 1,
+      "message": "```suggestion\n    .binary_regex_replace(b\u0027thermal-cpufreq-%d\\x00s_app_stop\\x00%s\u0027,\n                          b\u0027cpufreq-cpu%d\\x00\\x00\\x00\\x00\\x00\\x00s_app_stop\\x00%s\u0027),\n```",
+      "range": {
+        "startLine": 132,
+        "startChar": 0,
+        "endLine": 137,
+        "endChar": 63
+      },
+      "revId": "5603b05149c2e48b334b96f98483d30968f043e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
