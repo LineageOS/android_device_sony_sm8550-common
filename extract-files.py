@@ -123,6 +123,18 @@ blob_fixups: blob_fixups_user_type = {
     .add_needed(
         'libcodec2_shim.so'
     ),
+    # < 00009680: 6370 7566 7265 712d 6370 7525 6400 0000  cpufreq-cpu%d...
+    # < 00009690: 0000 0073 5f61 7070 5f73 746f 7000 2573  ...s_app_stop.%s
+    # ---
+    # > 00009680: 7468 6572 6d61 6c2d 6370 7566 7265 712d  thermal-cpufreq-
+    # > 00009690: 2564 0073 5f61 7070 5f73 746f 7000 2573  %d.s_app_stop.%s
+    'vendor/bin/thermal-engine-v2': blob_fixup()
+    .binary_regex_replace(b'\x74\x68\x65\x72\x6d\x61\x6c\x2d\x63\x70\x75\x66'
+                          b'\x72\x65\x71\x2d\x25\x64\x00\x73\x5f\x61\x70\x70'
+                          b'\x5f\x73\x74\x6f\x70\x00\x25\x73',
+                          b'\x63\x70\x75\x66\x72\x65\x71\x2d\x63\x70\x75\x25'
+                          b'\x64\x00\x00\x00\x00\x00\x00\x73\x5f\x61\x70\x70'
+                          b'\x5f\x73\x74\x6f\x70\x00\x25\x73'),
 }  # fmt: skip
 
 module = ExtractUtilsModule(
