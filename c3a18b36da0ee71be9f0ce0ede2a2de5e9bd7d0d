@@ -34,6 +34,24 @@
       "parentUuid": "56a1f752_03e71006",
       "revId": "c3a18b36da0ee71be9f0ce0ede2a2de5e9bd7d0d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e691bffb_f3fa2f50",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2025-01-15T13:11:05Z",
+      "side": 1,
+      "message": "Then please make sure thermal throttling is still being applied with this change, both with CPU load and battery charging",
+      "parentUuid": "30217fa1_3b1b983a",
+      "revId": "c3a18b36da0ee71be9f0ce0ede2a2de5e9bd7d0d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
