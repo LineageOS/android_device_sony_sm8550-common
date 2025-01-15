@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5efe12bb_f6b31e52",
+        "filename": "extract-files.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-01-15T20:05:45Z",
+      "side": 1,
+      "message": "sig_replace is easier to read fyi.",
+      "revId": "5603b05149c2e48b334b96f98483d30968f043e2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
