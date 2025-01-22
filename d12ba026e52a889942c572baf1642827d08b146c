@@ -16,6 +16,24 @@
       "message": "Why not use XQ-DQ72_Customized_SEA as usual?",
       "revId": "d12ba026e52a889942c572baf1642827d08b146c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5853e209_9f37771e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2025-01-22T08:53:47Z",
+      "side": 1,
+      "message": "when I upload the patchset, SEA it not yet out. we can change to that, though.",
+      "parentUuid": "406425f8_bfb455a2",
+      "revId": "d12ba026e52a889942c572baf1642827d08b146c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
