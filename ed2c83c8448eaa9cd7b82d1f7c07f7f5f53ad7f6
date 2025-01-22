@@ -16,6 +16,24 @@
       "message": "Sadly, it breaks sms/mms receiving until manually restart sim...",
       "revId": "ed2c83c8448eaa9cd7b82d1f7c07f7f5f53ad7f6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3f1fbb3a_6576cb68",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2025-01-22T05:06:34Z",
+      "side": 1,
+      "message": "I thought this fixes the sms receiving problem ?",
+      "parentUuid": "1572fad2_891331e0",
+      "revId": "ed2c83c8448eaa9cd7b82d1f7c07f7f5f53ad7f6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
