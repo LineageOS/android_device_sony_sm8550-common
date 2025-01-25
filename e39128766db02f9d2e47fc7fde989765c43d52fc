@@ -16,6 +16,24 @@
       "message": "I think the spc addition should be separated from the blob update.",
       "revId": "e39128766db02f9d2e47fc7fde989765c43d52fc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c9a29b12_22e1974b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2025-01-25T07:45:47Z",
+      "side": 1,
+      "message": "missing this will cause the error of can\u0027t find the spc service from RIL. so I think they should be in one commit",
+      "parentUuid": "2daa2fbd_c4917065",
+      "revId": "e39128766db02f9d2e47fc7fde989765c43d52fc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
