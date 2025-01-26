@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0828aa8b_747974fd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2025-01-26T06:53:34Z",
+      "side": 1,
+      "message": "To receive SMS after updating to A15 blob on 5V, this patch and the corresponding sepolicy patch are required.\nBTW, I tested with 5V JP model, whose latest stock rom is A14.",
+      "revId": "3fb5ec271877b9e0b7510e8b6fb606db91763e98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
