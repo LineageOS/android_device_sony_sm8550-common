@@ -16,6 +16,23 @@
       "message": "Use sim-restart",
       "revId": "f23031f4928ff93e74cb7fbc2428856c3d979778",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c2e7e0dd_b9205a35",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34167
+      },
+      "writtenOn": "2025-01-29T16:50:31Z",
+      "side": 1,
+      "message": "Confirmed sms/mms received correctly with sim-restart changes",
+      "revId": "f23031f4928ff93e74cb7fbc2428856c3d979778",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
