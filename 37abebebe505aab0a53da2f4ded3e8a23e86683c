@@ -33,6 +33,23 @@
       "message": "Confirmed that sms/mms sending/receiving works on Xperia 1 V. Tested locally.",
       "revId": "37abebebe505aab0a53da2f4ded3e8a23e86683c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1b1e6daf_15c69c77",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2025-02-16T00:08:07Z",
+      "side": 1,
+      "message": "Verified",
+      "revId": "37abebebe505aab0a53da2f4ded3e8a23e86683c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
