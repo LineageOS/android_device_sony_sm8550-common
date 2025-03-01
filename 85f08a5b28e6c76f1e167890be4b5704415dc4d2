@@ -16,6 +16,23 @@
       "message": "Not needed, pick https://review.lineageos.org/c/LineageOS/android_hardware_qcom-caf_common/+/420251",
       "revId": "85f08a5b28e6c76f1e167890be4b5704415dc4d2",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "efd9c5ba_17ab52b1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-03-01T21:34:21Z",
+      "side": 1,
+      "message": "Remove `imports: [\"hardware/qcom-caf/bootctrl\"],` from Android.bp instead",
+      "revId": "85f08a5b28e6c76f1e167890be4b5704415dc4d2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
