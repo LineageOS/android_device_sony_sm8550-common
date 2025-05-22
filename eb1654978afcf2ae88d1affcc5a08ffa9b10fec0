@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1ae34868_a53aa4ba",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-05-22T09:43:22Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/q/topic:%22oss-audioreach-kalama%22 merged.",
+      "revId": "eb1654978afcf2ae88d1affcc5a08ffa9b10fec0",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
