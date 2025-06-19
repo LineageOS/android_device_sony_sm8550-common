@@ -36,6 +36,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "40b87ace_cb2d4da8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-06-19T07:49:22Z",
+      "side": 1,
+      "message": "Yea, that\u0027s clear for me. I mean, remove it from the commit message, since you\u0027re keeping stock config.",
+      "parentUuid": "136247c6_99268b84",
+      "revId": "0a73ea1f2a9c4bc66fa83319f1b5d464f24c27c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "a04311bf_b88a9aae",
