@@ -16,6 +16,23 @@
       "message": "Maybe adjust this as well? You\u0027re not switching usecaseKvManager",
       "revId": "0a73ea1f2a9c4bc66fa83319f1b5d464f24c27c6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a04311bf_b88a9aae",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-06-19T07:01:10Z",
+      "side": 1,
+      "message": "Also remove it from the device tree?",
+      "revId": "0a73ea1f2a9c4bc66fa83319f1b5d464f24c27c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
