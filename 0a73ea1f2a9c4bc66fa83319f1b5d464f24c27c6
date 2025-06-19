@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "761b9bf9_4415ec15",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2025-06-19T07:00:09Z",
+      "side": 1,
+      "message": "Maybe adjust this as well? You\u0027re not switching usecaseKvManager",
+      "revId": "0a73ea1f2a9c4bc66fa83319f1b5d464f24c27c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
