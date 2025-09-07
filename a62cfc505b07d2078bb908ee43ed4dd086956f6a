@@ -16,6 +16,23 @@
       "message": "https://review.lineageos.org/q/If298a691a8ca114d75016c3f04ca50547f9786d0",
       "revId": "a62cfc505b07d2078bb908ee43ed4dd086956f6a",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cab050b2_ce27bfa6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2025-09-07T01:28:17Z",
+      "side": 1,
+      "message": "See https://review.lineageos.org/c/LineageOS/android_device_sony_sm8550-common/+/449446",
+      "revId": "a62cfc505b07d2078bb908ee43ed4dd086956f6a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
