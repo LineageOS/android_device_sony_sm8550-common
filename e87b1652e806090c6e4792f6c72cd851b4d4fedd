@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6f0d5ddf_a92872df",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2025-09-08T10:01:42Z",
+      "side": 1,
+      "message": "See https://review.lineageos.org/c/LineageOS/android_vendor_qcom_opensource_power/+/450294/2",
+      "revId": "e87b1652e806090c6e4792f6c72cd851b4d4fedd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
