@@ -26,10 +26,8 @@ on early-init
     # radio
     wait /dev/block/by-name/LTALabel
     exec_start msim_sh
-    setprop ro.boot.product.hardware.sku ${vendor.radio.hardware.sku}
 
 on post-fs
-    setprop persist.radio.multisim.config ${vendor.radio.hardware.sku}${vendor.radio.hardware.sku}
     setprop ro.vendor.ltalabel.model ${vendor.radio.ltalabel.model}
 
 on property:vendor.post_boot.parsed=1
