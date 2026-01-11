@@ -34,6 +34,24 @@
       "parentUuid": "c0f4724f_291797f7",
       "revId": "139e7818be4535a40bdde3c2ebe0b92e323e4bea",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "33d01dff_4e7e27bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-01-11T08:38:08Z",
+      "side": 1,
+      "message": "Also:\n\nhttps://www.docomo.ne.jp/english/binary/pdf/support/trouble/manual/download/SO-51D_E_syousai_13.pdf\n\nhttps://www.docomo.ne.jp/english/binary/pdf/support/trouble/manual/download/SO-53D_E_syousai_13.pdf",
+      "parentUuid": "b5538154_d4fa582b",
+      "revId": "139e7818be4535a40bdde3c2ebe0b92e323e4bea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
