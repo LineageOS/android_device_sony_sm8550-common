@@ -16,6 +16,24 @@
       "message": "Japanese models such as SO-51D and SO-53D have 1 physical SIM slot.",
       "revId": "139e7818be4535a40bdde3c2ebe0b92e323e4bea",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5538154_d4fa582b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-01-11T08:35:23Z",
+      "side": 1,
+      "message": "Japanese models (after SM8450) are not supported by qUnlockTool anymore and therefore users can\u0027t unlock the bootloader. It should be dropped.\n\nAlso SO-51D and SO-53D is DSDS. All Japanese models after Mark 3 by defaults came with 1 pSIM and 1 eSIM.",
+      "parentUuid": "c0f4724f_291797f7",
+      "revId": "139e7818be4535a40bdde3c2ebe0b92e323e4bea",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
