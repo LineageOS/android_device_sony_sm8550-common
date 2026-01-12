@@ -39,32 +39,6 @@ on property:vendor.post_boot.parsed=1
     write /proc/irq/246/smp_affinity_list 2
     write /proc/irq/43/smp_affinity_list 1
 
-on property:ro.vendor.ltalabel.model=XQ-BC72
-    setprop ro.vendor.product.rf.id PDX215-C2
-
-on property:ro.vendor.ltalabel.model=XQ-BC62
-    setprop ro.vendor.product.rf.id PDX215-A2US
-
-on property:ro.vendor.ltalabel.model=XQ-BC52
-    setprop ro.vendor.product.rf.id PDX215-A2
-
-on property:ro.vendor.ltalabel.model=XQ-BC42
-    setprop ro.vendor.product.rf.id PDX215-J2
-    setprop persist.vendor.nfc.config_file_name "libnfc-nxp-typef.conf"
-
-on property:ro.vendor.ltalabel.model=XQ-BQ72
-    setprop ro.vendor.product.rf.id PDX214-C2
-
-on property:ro.vendor.ltalabel.model=XQ-BQ62
-    setprop ro.vendor.product.rf.id PDX214-A2US
-
-on property:ro.vendor.ltalabel.model=XQ-BQ52
-    setprop ro.vendor.product.rf.id PDX214-A2
-
-on property:ro.vendor.ltalabel.model=XQ-BQ42
-    setprop ro.vendor.product.rf.id PDX214-J2
-    setprop persist.vendor.nfc.config_file_name "libnfc-nxp-typef.conf"
-
 on property:ro.vendor.ltalabel.model=XQ-DQ44
     setprop ro.vendor.product.rf.id pdx234-J4
     setprop persist.vendor.nfc.config_file_name "libnfc-nxp-typef.conf"
@@ -78,6 +52,18 @@ on property:ro.vendor.ltalabel.model=XQ-DQ62
 on property:ro.vendor.ltalabel.model=XQ-DQ72
     setprop ro.vendor.product.rf.id pdx234-C2
 
+on property:ro.vendor.ltalabel.model=A301SO
+    setprop ro.vendor.product.rf.id pdx234-S4
+    setprop persist.vendor.nfc.config_file_name "libnfc-nxp-typef.conf"
+
+on property:ro.vendor.ltalabel.model=SOG10
+    setprop ro.vendor.product.rf.id pdx234-K4
+    setprop persist.vendor.nfc.config_file_name "libnfc-nxp-typef.conf"
+
+on property:ro.vendor.ltalabel.model=SO-51D
+    setprop ro.vendor.product.rf.id pdx234-N4
+    setprop persist.vendor.nfc.config_file_name "libnfc-nxp-typef.conf"
+
 on property:ro.vendor.ltalabel.model=XQ-DE44
     setprop ro.vendor.product.rf.id pdx237-J4
     setprop persist.vendor.nfc.config_file_name "libnfc-nxp-typef.conf"
@@ -87,6 +73,14 @@ on property:ro.vendor.ltalabel.model=XQ-DE54
 
 on property:ro.vendor.ltalabel.model=XQ-DE72
     setprop ro.vendor.product.rf.id pdx237-C2
+
+on property:ro.vendor.ltalabel.model=SOG12
+    setprop ro.vendor.product.rf.id pdx237-K4
+    setprop persist.vendor.nfc.config_file_name "libnfc-nxp-typef.conf"
+
+on property:ro.vendor.ltalabel.model=SO-53D
+    setprop ro.vendor.product.rf.id pdx237-N4
+    setprop persist.vendor.nfc.config_file_name "libnfc-nxp-typef.conf"
 
 on property:sys.boot_completed=1
      swapon_all /vendor/etc/fstab.zram
