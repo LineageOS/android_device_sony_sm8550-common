@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fdbe620c_84a89aef",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2026-01-12T08:17:01Z",
+      "side": 1,
+      "message": "I have checked japanese stock roms.\n```\nsm8250:\nro.boot.product.hardware.sku\u003dss\npersist.radio.multisim.config\u003dssss\nsm8350:\nro.boot.product.hardware.sku\u003dss\npersist.radio.multisim.config\u003dssss\nsm8550:\nro.boot.product.hardware.sku\u003dds\npersist.radio.multisim.config\u003ddsds\n```\nYour point is correct. Thanks for the information. I have slightly modified your change.",
+      "revId": "56d7d2b313b238403c87fb3ebcc3351530fd4f2e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
