@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "178fdbae_8ffca89c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-02-12T23:18:03Z",
+      "side": 1,
+      "message": "This",
+      "revId": "f1951d418b247815764a6aa1941020af3b103ed8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "128bf094_9bbf898a",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-02-12T23:18:03Z",
+      "side": 1,
+      "message": "This prop is in system_ext on my salami dump.",
+      "revId": "f1951d418b247815764a6aa1941020af3b103ed8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
