@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fb623470_560b98ae",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-02-12T23:23:48Z",
+      "side": 1,
+      "message": "Also in system_ext on my salami dump.",
+      "revId": "6c77f8f1f5ea7f9fdaafa1f6d86416af25682af2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
