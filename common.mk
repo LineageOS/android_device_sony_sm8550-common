@@ -92,6 +92,7 @@ PRODUCT_PACKAGES += \
     android.hardware.authsecret@1.0.vendor
 
 # Bluetooth
+$(call soong_config_set,bluetooth_module,le_audio_bit_override,24)
 PRODUCT_PACKAGES += \
     lib_bt_aptx \
     lib_bt_ble \
