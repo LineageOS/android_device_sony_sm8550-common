@@ -33,6 +33,24 @@
       "message": "This prop is in system_ext on my salami dump.",
       "revId": "f1951d418b247815764a6aa1941020af3b103ed8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4513fc8d_b299d7a8",
+        "filename": "vendor.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 31578
+      },
+      "writtenOn": "2026-03-21T16:25:59Z",
+      "side": 1,
+      "message": "Done. It is in product.prop here",
+      "parentUuid": "128bf094_9bbf898a",
+      "revId": "f1951d418b247815764a6aa1941020af3b103ed8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
