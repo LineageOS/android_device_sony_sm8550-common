@@ -440,6 +440,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.vibrator-sony.service.cs40l25
 
+$(call soong_config_set_bool,SonyVibratorVars,use_compound_double_click_effect,false)
+$(call soong_config_set_bool,SonyVibratorVars,use_effect_duration_polling,true)
+
 PRODUCT_COPY_FILES += \
     vendor/qcom/opensource/vibrator/excluded-input-devices.xml:$(TARGET_COPY_OUT_VENDOR)/etc/excluded-input-devices.xml
 
