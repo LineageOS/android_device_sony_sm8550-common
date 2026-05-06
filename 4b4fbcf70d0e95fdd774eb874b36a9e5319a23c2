@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "18053ace_f08c13f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2026-05-06T05:50:46Z",
+      "side": 1,
+      "message": "commit message: sm8150 -\u003e sm8550",
+      "revId": "4b4fbcf70d0e95fdd774eb874b36a9e5319a23c2",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
