@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "36ae538d_6f3b3989",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2026-07-01T07:04:19Z",
+      "side": 1,
+      "message": "can you add Fixes: {url} tag if it\u0027s related to that open github issue?",
+      "revId": "45d9f39b7a23030b746b54bc4b70f28bd69adbcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
